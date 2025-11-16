@@ -84,4 +84,4 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
 
 ---
 
-⌨️ com 🤖✨ + 🧠❤️ por **Você**, seguindo os ensinamentos de **Felipe Aguiar**
+⌨️ com 🤖✨ + 🧠❤️ por **Amanda Batista**, seguindo os ensinamentos de **Felipe Aguiar**
