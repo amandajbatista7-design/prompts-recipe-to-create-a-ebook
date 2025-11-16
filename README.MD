@@ -1,92 +1,87 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <!-- Espaço reservado para a capa do ebook -->
+    <img width="350" src="./assets/cover.png" alt="Capa do Ebook">
 </p>
-
 
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/AI%20Content-Project-blue?logo=gnu-bash&logoColor=white" alt="AI Project Badge"></a>
+</p>
 
 -------
 
+# Projeto EBOOK criado com Inteligência Artificial
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+> ℹ️ **NOTA:** Este repositório contém o projeto desenvolvido como atividade prática de um curso focado no uso de Inteligência Artificial para criação de conteúdo digital.  
+> ⭐ Este projeto foi **baseado e construído seguindo os passos do Felipe Aguiar**, instrutor e referência no uso de IA para criação de ebooks.
 
-# Projeto EBOOK Gerado por I.A.s
+Este ebook foi criado utilizando ferramentas de IA para **geração de título, texto e conteúdo** com o **ChatGPT**, além da **criação da capa e ilustrações** com **Copilot**, seguido por **revisão e diagramação humana** realizada no PowerPoint.  
+O objetivo do projeto é demonstrar, na prática, como integrar IA + edição humana na construção de materiais profissionais.
 
+📘 **Passo a passo completo do processo, incluindo todos os prompts utilizados, está disponível no Notion:**  
+👉 *[Insira aqui o link para o seu Notion]*
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+---
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ChatGPT] — geração de título e conteúdo textual  
+- Copilot — criação da capa e ilustrações internas  
+- [PowerPoint]— diagramação e revisão  
+- GitHub — organização do projeto e histórico do conteúdo  
 
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+---
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via **ChatGPT**
+- Imagens e ilustrações criadas com **Copilot**
+- Revisão, edição e diagramação humana
+- Estrutura baseada no método do **Felipe Aguiar**
+- Link para Notion com todos os prompts
+- Repositório organizado para fins de estudo e prática com IA
 
-## 📚 Materiais
+---
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+## 📚 Materiais incluídos
 
-## 🛠️ Instruções de execução
+- **assets/** → Imagens usadas no ebook (capa e ilustrações)  
+- **output/** → Ebook final exportado em PDF  
+- **prompts/** → (opcional) arquivos com prompts em texto  
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+---
 
-## 👨‍💻 Expert
+## 🛠️ Como reproduzir o projeto
+
+1. Acesse todos os prompts disponíveis no Notion ou neste repositório.  
+2. Gere o conteúdo textual usando **ChatGPT**.  
+3. Gere ilustrações e capa usando **Copilot**.  
+4. Faça revisão e diagramação no PowerPoint ou software equivalente.  
+5. Exporte o PDF final e coloque na pasta `output/`.  
+6. Compare com o projeto base criado por **Felipe Aguiar** para aprimorar sua estrutura. (https://github.com/felipeAguiarCode)
+
+---
+
+## 👨‍💻 Autor
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/ /v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <p>&nbsp;&nbsp;&nbsp;Seu Nome<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/amandajbatista7">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="https://www.linkedin.com/in/amanda-j-20618516a/">
+    LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
+
 <br/><br/>
-<p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 🤖✨ + 🧠❤️ por **Você**, seguindo os ensinamentos de **Felipe Aguiar**
