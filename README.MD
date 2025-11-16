@@ -14,7 +14,7 @@ Este ebook foi criado utilizando ferramentas de IA para **geração de título, 
 O objetivo do projeto é demonstrar, na prática, como integrar IA + edição humana na construção de materiais profissionais.
 
 📘 **Passo a passo completo do processo, incluindo todos os prompts utilizados, está disponível no Notion:**  
-👉 *(https://www.notion.so/Ebook-2ac634e4837e80c195e8cad2d93ab755?source=copy_link)*
+👉 *(https://iris-edam-ee9.notion.site/Ebook-2ac634e4837e80c195e8cad2d93ab755?source=copy_link)*
 
 ---
 
