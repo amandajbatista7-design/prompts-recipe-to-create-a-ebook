@@ -25,9 +25,9 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT] — geração de título e conteúdo textual  
+- ChatGPT — geração de título e conteúdo textual  
 - Copilot — criação da capa e ilustrações internas  
-- [PowerPoint]— diagramação e revisão  
+- PowerPoint— diagramação e revisão  
 - GitHub — organização do projeto e histórico do conteúdo  
 
 ---
@@ -47,7 +47,6 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
 
 - **assets/** → Imagens usadas no ebook (capa e ilustrações)  
 - **output/** → Ebook final exportado em PDF  
-- **prompts/** → (opcional) arquivos com prompts em texto  
 
 ---
 
