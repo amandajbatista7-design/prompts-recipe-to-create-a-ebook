@@ -1,6 +1,6 @@
 <p align="center">
     <!-- Espaço reservado para a capa do ebook -->
-    <img width="350" src="./assets/cover.png" alt="Capa do Ebook">
+    <img width="350" src="./assets/Cover.png" alt="Capa do Ebook">
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
       width=80 
       src="https://avatars.githubusercontent.com/u/ /v=4"
     />
-    <p>&nbsp;&nbsp;&nbsp;Seu Nome<br>
+    <p>&nbsp;&nbsp;&nbsp;Amanda Batista<br>
     &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/amandajbatista7">
     GitHub</a>&nbsp;|&nbsp;
