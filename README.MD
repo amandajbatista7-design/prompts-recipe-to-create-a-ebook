@@ -30,6 +30,26 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
 
 ---
 
+## 🧠 Prompts utilizados
+
+### **ChatGPT**
+
+| Ação      | Prompt |
+|-----------|--------|
+| Título    | *Crie um título de um ebook sobre o tema de fotografia, o ebook é do nicho de fotografia e o subnicho é de retrato, o título deve ser épico e curto, me liste 5 variações de títulos.* |
+| Conteúdo  | *Faça um texto para ebook , com foco em fotografia, listando dicas para captura de retratos {REGRAS} -Explique sempre de uma maneira simples -Deixe o texto enxuto, --quando possível traga exemplos com imagens -sempre deixe um título sugestivo por tópico.* |
+| Expansão  | *expandir todos os tópicos.* |
+
+---
+
+### **Copilot**
+
+| Ação              | Prompt |
+|------------------|--------|
+| Capa do ebook    | *Create an image of a camera capturing a portrait, soft anime, minimalist, aesthetic, serene, 3:4* |
+
+---
+
 ## ✨ Features
 
 - Conteúdo gerado via **ChatGPT**
@@ -44,7 +64,7 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
 ## 📚 Materiais incluídos
 
 - **assets/** → Imagens usadas no ebook (capa e ilustrações)  
-- **output/** → Ebook final exportado em PDF  
+- **output/** → Ebook final exportado em PDF e template do Power Point  
 
 ---
 
