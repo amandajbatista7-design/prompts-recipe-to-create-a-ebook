@@ -16,6 +16,9 @@ O objetivo do projeto é demonstrar, na prática, como integrar IA + edição hu
 📘 **Passo a passo completo do processo, incluindo todos os prompts utilizados, está disponível no Notion:**  
 👉 *(https://iris-edam-ee9.notion.site/Ebook-2ac634e4837e80c195e8cad2d93ab755?source=copy_link)*
 
+<p align="center">
+    👉 <a href="./output/output.pdf"><strong>Clique aqui para ler o ebook</strong></a> 👈
+</p>
 ---
 
 ## 💻 Tecnologias utilizadas no projeto
