@@ -3,11 +3,6 @@
     <img width="350" src="./assets/Cover.png" alt="Capa do Ebook">
 </p>
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/AI%20Content-Project-blue?logo=gnu-bash&logoColor=white" alt="AI Project Badge"></a>
-</p>
-
 -------
 
 # Projeto EBOOK criado com Inteligência Artificial
